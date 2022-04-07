@@ -1,13 +1,11 @@
 # projectAPI
 
-#Project zero
-***
-#Descripción clipboard
+# Descripción clipboard
 ***
 Este es un proyecto de aprendizaje donde me enfoco
 en los conceptos de una API y métodos HTTP.
 
-#Comenzando rocket
+# Comenzando rocket
 ***
 consiste en almacenar una serie de libros, mediante un array
 y haciendo uso de los métodos HTTP 
